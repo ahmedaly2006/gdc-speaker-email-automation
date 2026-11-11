@@ -1,0 +1,10 @@
+.DS_Store
+.clasp.json
+.clasprc.json
+.env
+.env.*
+!*.example
+*.log
+private/
+real-speakers*.csv
+real-vouchers*.csv
